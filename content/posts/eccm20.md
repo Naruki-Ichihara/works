@@ -1,6 +1,6 @@
 ---
 author: "Naruki Ichihara"
-title: "3D-PRINT PATH GENERATION OF CURVILINEAR FIBER-REINFORCEDPOLYMERS BASED ON BIOLOGICAL PATTERN FORMING"
+title: "3D-print path generation of curvilinear fiber-reinforced polymers based on biological pattern formnig"
 date: "2022-06-30"
 description: "Proceedings of the 20th European Conference on Composite Materials"
 tags: ["3D print"]

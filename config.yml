@@ -16,29 +16,12 @@ params:
   #env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: publications
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, Research, Composites, Metastructure]
   author: Me
-  # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
-
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  showtoc: false
-  tocopen: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -50,35 +33,14 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Publications"
+    text: "Metastructure lab"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
-
   # home-info mode
   homeInfoParams:
-    Title: "Research works."
+    Title: "Highlight works."
     Content:  Interesting and unpublished is equivalent to non-existent. (G. M. Whitesides, Adv. Mater., 2004)
-
-  #socialIcons:
-  #  - name: researchgate
-  #    url: "https://twitter.com/"
-  #  - name: googlescholar
-  #    url: "https://stackoverflow.com"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -99,8 +61,12 @@ params:
 menu:
   main:
     - identifier: archives
-      name: archives
+      name: works
       url: /archives/
+      weight: -20
+    - identifier: highlights
+      name: highlights
+      url: /
       weight: -10
     - identifier: categories
       name: categories

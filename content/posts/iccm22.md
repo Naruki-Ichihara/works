@@ -1,0 +1,20 @@
+---
+author: "Naruki Ichihara"
+draft: false
+title: "Continuum damage mechanics modelling of a 3D printed curvilinear CFRTP"
+date: "2019-08-12"
+description: "Proceedings of 22nd International Conference on Composite Materials"
+tags: ["3D print"]
+categories: ["International Conference"]
+ShowToc: false
+ShowBreadCrumbs: false
+---
+
+Continuum damage mechanics was applied to a 3D printed curvilinear carbon fiber reinforced thermoplastic (c-CFRTP) to predict mechanical response due to loading. The material model was developed by means of finite element analysis, in which user-defined material subroutine was implemented. Elasto-plastic behavior of the 3D printed c-CFRTP including damage initiation and propagation was identified by a monotonic and cyclic tensile tests of the three specimens, i.e. [(+-45]2]S, [(0/90)2]S and [(+-67.5)2]S specimens. Then, the 3D printed curvilinear c-CFRTP was tested in monotonic tensile loading. Non-linear mechanical behavior of the 3D printed curvilinear c-CFRTP due to plasticity and damage initiation and propagation due to tensile loading was well predicted by the numerical simulation.
+
+
+* * *
+Please request a whole paper on the research gate if you need a copy of this article.
+
+[Publisher page](https://search.informit.org/doi/10.3316/INFORMIT.888034481545479 "Informit")
+
