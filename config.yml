@@ -1,4 +1,4 @@
-baseURL: "https://works.naruki-ichihara.com"
+baseURL: "https://naruki-ichihara.com"
 title: publications
 paginate: 5
 theme: PaperMod
@@ -21,7 +21,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -95,6 +95,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
     - identifier: archives

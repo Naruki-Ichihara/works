@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>publications</title>
-    <link>https://works.naruki-ichihara.com/</link>
+    <link>https://naruki-ichihara.com/</link>
     <description>Recent content on publications</description>
     <image>
-      <url>https://works.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://works.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://works.naruki-ichihara.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://naruki-ichihara.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D-PRINT PATH GENERATION OF CURVILINEAR FIBER-REINFORCEDPOLYMERS BASED ON BIOLOGICAL PATTERN FORMING</title>
-      <link>https://works.naruki-ichihara.com/posts/eccm20/</link>
+      <link>https://naruki-ichihara.com/posts/eccm20/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://works.naruki-ichihara.com/posts/eccm20/</guid>
+      <guid>https://naruki-ichihara.com/posts/eccm20/</guid>
       <description>Proceedings of the 20th European Conference on Composite Materials</description>
     </item>
     
     <item>
       <title>3D-print infill generation using the biological phase field of an optimized discrete material orientation vector field</title>
-      <link>https://works.naruki-ichihara.com/posts/3d-print-infill-generation/</link>
+      <link>https://naruki-ichihara.com/posts/3d-print-infill-generation/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://works.naruki-ichihara.com/posts/3d-print-infill-generation/</guid>
+      <guid>https://naruki-ichihara.com/posts/3d-print-infill-generation/</guid>
       <description>Compoites Part B: Engineering</description>
     </item>
     
     <item>
       <title>Progressive damage simulation for a 3D-printed curvilinear continuous carbon fiber-reinforced thermoplastic based on continuum damage mechanics</title>
-      <link>https://works.naruki-ichihara.com/posts/cmd-for-3d-print/</link>
+      <link>https://naruki-ichihara.com/posts/cmd-for-3d-print/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://works.naruki-ichihara.com/posts/cmd-for-3d-print/</guid>
+      <guid>https://naruki-ichihara.com/posts/cmd-for-3d-print/</guid>
       <description>Advanced Composite Materials</description>
     </item>
     
     <item>
       <title>A 3D print path generation based on periodic pattern formation system</title>
-      <link>https://works.naruki-ichihara.com/posts/jisse2021/</link>
+      <link>https://naruki-ichihara.com/posts/jisse2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://works.naruki-ichihara.com/posts/jisse2021/</guid>
+      <guid>https://naruki-ichihara.com/posts/jisse2021/</guid>
       <description>Proceedings of 17th JAPAN International SAMPE SYMPOSIUM AND EXHIBITION</description>
     </item>
     
