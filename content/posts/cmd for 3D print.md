@@ -1,0 +1,20 @@
+---
+author: "Naruki Ichihara"
+title: "Progressive damage simulation for a 3D-printed curvilinear continuous carbon fiber-reinforced thermoplastic based on continuum damage mechanics"
+date: "2020-02-13"
+description: "Advanced Composite Materials"
+tags: ["3D print"]
+categories: ["Research paper"]
+ShowToc: false
+ShowBreadCrumbs: false
+---
+Continuum damage mechanics (CDM) based on finite element analysis was performed to predict the mechanical behavior of a 3D-printed curvilinear continuous carbon fiber reinforced thermoplastic (c-CFRTP). Elastoplastic properties of the 3D-printed c-CFRTP including damage initiation, evolution, and propagation were identified using monotonic and cyclic tensile tests for three specimens, i.e. [(±45)2]S, [(0/90)2]S, and [(±67.5)2]S. Then, S-shaped curvilinear c-CFRTP was 3D-printed and tested in monotonic tensile loading. The non-linear mechanical behavior of an S-shaped curvilinear c-CFRTP due to tensile loading was well predicted by means of finite element analysis using the constructed CDM-based material model.
+
+* * *
+Please request a whole paper on the research gate if you need a copy of this article.
+
+[Publisher page](https://doi.org/10.1080/09243046.2020.1724430 "Science Direct")
+
+[Research gate](https://www.researchgate.net/publication/339266142_Progressive_damage_simulation_for_a_3D-printed_curvilinear_continuous_carbon_fiber-reinforced_thermoplastic_based_on_continuum_damage_mechanics "Research gate")
+
+

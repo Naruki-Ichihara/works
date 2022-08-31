@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://works.naruki-ichihara.com/sitemap.xml
