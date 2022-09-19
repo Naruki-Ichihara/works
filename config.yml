@@ -1,4 +1,4 @@
-baseURL: "https://naruki-ichihara.com"
+baseURL: "https://pubs.naruki-ichihara.com"
 title: publications
 paginate: 5
 theme: PaperMod
@@ -33,7 +33,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Metastructure lab"
+    text: "Naruki Ichihara"
     icon: /apple-touch-icon.png
     iconHeight: 35
 

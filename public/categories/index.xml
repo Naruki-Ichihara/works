@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on publications</title>
-    <link>https://naruki-ichihara.com/categories/</link>
+    <link>https://pubs.naruki-ichihara.com/categories/</link>
     <description>Recent content in Categories on publications</description>
     <image>
-      <url>https://naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://pubs.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pubs.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://naruki-ichihara.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pubs.naruki-ichihara.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>International Conference</title>
-      <link>https://naruki-ichihara.com/categories/international-conference/</link>
+      <link>https://pubs.naruki-ichihara.com/categories/international-conference/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://naruki-ichihara.com/categories/international-conference/</guid>
+      <guid>https://pubs.naruki-ichihara.com/categories/international-conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research paper</title>
-      <link>https://naruki-ichihara.com/categories/research-paper/</link>
+      <link>https://pubs.naruki-ichihara.com/categories/research-paper/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://naruki-ichihara.com/categories/research-paper/</guid>
+      <guid>https://pubs.naruki-ichihara.com/categories/research-paper/</guid>
       <description></description>
     </item>
     
