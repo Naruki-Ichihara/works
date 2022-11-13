@@ -64,10 +64,6 @@ menu:
       name: works
       url: /archives/
       weight: -20
-    - identifier: highlights
-      name: highlights
-      url: /
-      weight: -10
     - identifier: categories
       name: categories
       url: /categories/
