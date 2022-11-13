@@ -14,13 +14,13 @@ minify:
 
 params:
   #env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: publications
-  description: "ExampleSite description"
+  title: Publications
+  description: "Publication lists of Naruki Ichihara, Nihon University."
   keywords: [Blog, Portfolio, Research, Composites, Metastructure]
-  author: Me
+  author: Naruki Ichihara
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: dark # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: false
 
   assets:
@@ -80,11 +80,6 @@ menu:
       name: search
       url: /search/
       weight: 30
-    - identifier: metastructure
-      name: Metastructure lab
-      url: https://metastructure.naruki-ichihara.com/
-      weight: 40
-
 
 pygmentsUseClasses: true
 markup:

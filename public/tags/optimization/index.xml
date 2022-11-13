@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Optimization on publications</title>
+    <link>https://pubs.naruki-ichihara.com/tags/optimization/</link>
+    <description>Recent content in Optimization on publications</description>
+    <image>
+      <url>https://pubs.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pubs.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pubs.naruki-ichihara.com/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D printing of pin-loading section with optimized print path using short carbon fiber reinforced plastic</title>
+      <link>https://pubs.naruki-ichihara.com/posts/con008/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/posts/con008/</guid>
+      <description>Proceedings of JSME International Conference on Materials and Processing 2022</description>
+    </item>
+    
+    <item>
+      <title>Conformed print path generation with optimized material orientation for 3D printed fiber reinforced polymers</title>
+      <link>https://pubs.naruki-ichihara.com/posts/con007/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/posts/con007/</guid>
+      <description>CAMX2022 Sampe University Research Symposium</description>
+    </item>
+    
+    <item>
+      <title>3D-print path generation of curvilinear fiber-reinforced polymers based on biological pattern formnig</title>
+      <link>https://pubs.naruki-ichihara.com/posts/con003/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/posts/con003/</guid>
+      <description>Proceedings of the 20th European Conference on Composite Materials</description>
+    </item>
+    
+    <item>
+      <title>3D-print infill generation using the biological phase field of an optimized discrete material orientation vector field</title>
+      <link>https://pubs.naruki-ichihara.com/posts/pub002/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/posts/pub002/</guid>
+      <description>Compoites Part B: Engineering</description>
+    </item>
+    
+    <item>
+      <title>A 3D print path generation based on periodic pattern formation system</title>
+      <link>https://pubs.naruki-ichihara.com/posts/con004/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/posts/con004/</guid>
+      <description>Proceedings of 17th JAPAN International SAMPE SYMPOSIUM AND EXHIBITION</description>
+    </item>
+    
+  </channel>
+</rss>

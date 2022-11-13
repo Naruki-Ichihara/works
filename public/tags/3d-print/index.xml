@@ -9,59 +9,95 @@
       <link>https://pubs.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pubs.naruki-ichihara.com/tags/3d-print/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pubs.naruki-ichihara.com/tags/3d-print/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D printing of pin-loading section with optimized print path using short carbon fiber reinforced plastic</title>
+      <link>https://pubs.naruki-ichihara.com/posts/con008/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/posts/con008/</guid>
+      <description>Proceedings of JSME International Conference on Materials and Processing 2022</description>
+    </item>
+    
+    <item>
+      <title>Topology and material orientation optimization for 3D printed fiber-reinforced polymers</title>
+      <link>https://pubs.naruki-ichihara.com/posts/con005/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/posts/con005/</guid>
+      <description>Proceedings of JSME International Conference on Materials and Processing 2022</description>
+    </item>
+    
+    <item>
+      <title>Conformed print path generation with optimized material orientation for 3D printed fiber reinforced polymers</title>
+      <link>https://pubs.naruki-ichihara.com/posts/con007/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/posts/con007/</guid>
+      <description>CAMX2022 Sampe University Research Symposium</description>
+    </item>
+    
+    <item>
+      <title>Fail-safe metamaterials with 3D printed fiber reinforced polymers</title>
+      <link>https://pubs.naruki-ichihara.com/posts/con006/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/posts/con006/</guid>
+      <description>Proceedings of TEXCOMP-14 Conference</description>
+    </item>
+    
     <item>
       <title>3D-print path generation of curvilinear fiber-reinforced polymers based on biological pattern formnig</title>
-      <link>https://pubs.naruki-ichihara.com/posts/eccm20/</link>
+      <link>https://pubs.naruki-ichihara.com/posts/con003/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pubs.naruki-ichihara.com/posts/eccm20/</guid>
+      <guid>https://pubs.naruki-ichihara.com/posts/con003/</guid>
       <description>Proceedings of the 20th European Conference on Composite Materials</description>
     </item>
     
     <item>
       <title>3D print path generation based on the local activation and global inhibition system</title>
-      <link>https://pubs.naruki-ichihara.com/posts/icacc2021/</link>
+      <link>https://pubs.naruki-ichihara.com/posts/con002/</link>
       <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pubs.naruki-ichihara.com/posts/icacc2021/</guid>
+      <guid>https://pubs.naruki-ichihara.com/posts/con002/</guid>
       <description>Proceedings of 46th International Conference and Exposition on Advanced Ceramics and Composites</description>
     </item>
     
     <item>
       <title>3D-print infill generation using the biological phase field of an optimized discrete material orientation vector field</title>
-      <link>https://pubs.naruki-ichihara.com/posts/3d-print-infill-generation/</link>
+      <link>https://pubs.naruki-ichihara.com/posts/pub002/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pubs.naruki-ichihara.com/posts/3d-print-infill-generation/</guid>
+      <guid>https://pubs.naruki-ichihara.com/posts/pub002/</guid>
       <description>Compoites Part B: Engineering</description>
     </item>
     
     <item>
+      <title>A 3D print path generation based on periodic pattern formation system</title>
+      <link>https://pubs.naruki-ichihara.com/posts/con004/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/posts/con004/</guid>
+      <description>Proceedings of 17th JAPAN International SAMPE SYMPOSIUM AND EXHIBITION</description>
+    </item>
+    
+    <item>
       <title>Progressive damage simulation for a 3D-printed curvilinear continuous carbon fiber-reinforced thermoplastic based on continuum damage mechanics</title>
-      <link>https://pubs.naruki-ichihara.com/posts/cmd-for-3d-print/</link>
+      <link>https://pubs.naruki-ichihara.com/posts/pub001/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://pubs.naruki-ichihara.com/posts/cmd-for-3d-print/</guid>
+      <guid>https://pubs.naruki-ichihara.com/posts/pub001/</guid>
       <description>Advanced Composite Materials</description>
     </item>
     
     <item>
       <title>Continuum damage mechanics modelling of a 3D printed curvilinear CFRTP</title>
-      <link>https://pubs.naruki-ichihara.com/posts/iccm22/</link>
+      <link>https://pubs.naruki-ichihara.com/posts/con001/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pubs.naruki-ichihara.com/posts/iccm22/</guid>
+      <guid>https://pubs.naruki-ichihara.com/posts/con001/</guid>
       <description>Proceedings of 22nd International Conference on Composite Materials</description>
-    </item>
-    
-    <item>
-      <title>A 3D print path generation based on periodic pattern formation system</title>
-      <link>https://pubs.naruki-ichihara.com/posts/jisse2021/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pubs.naruki-ichihara.com/posts/jisse2021/</guid>
-      <description>Proceedings of 17th JAPAN International SAMPE SYMPOSIUM AND EXHIBITION</description>
     </item>
     
   </channel>
