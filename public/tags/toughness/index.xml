@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>toughness on publications</title>
+    <link>https://pubs.naruki-ichihara.com/tags/toughness/</link>
+    <description>Recent content in toughness on publications</description>
+    <image>
+      <url>https://pubs.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pubs.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pubs.naruki-ichihara.com/tags/toughness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effects of a Perimeter on the Post-failure Behavior of Fiber-reinforced Polymer Composite Lattices</title>
+      <link>https://pubs.naruki-ichihara.com/posts/pub005/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/posts/pub005/</guid>
+      <description>Chinese Journal of Mechanical Engineering: Additive Manufacturing Frontiers</description>
+    </item>
+    
+    <item>
+      <title>3D-printed high-toughness composite structures by anisotropic topology optimization</title>
+      <link>https://pubs.naruki-ichihara.com/posts/pub003/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/posts/pub003/</guid>
+      <description>Compoites Part B: Engineering</description>
+    </item>
+    
+  </channel>
+</rss>

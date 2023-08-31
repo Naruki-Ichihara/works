@@ -9,11 +9,57 @@
       <link>https://pubs.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pubs.naruki-ichihara.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pubs.naruki-ichihara.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Damage mechanics</title>
+      <link>https://pubs.naruki-ichihara.com/tags/damage-mechanics/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/tags/damage-mechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filament winding</title>
+      <link>https://pubs.naruki-ichihara.com/tags/filament-winding/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/tags/filament-winding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrogen strage</title>
+      <link>https://pubs.naruki-ichihara.com/tags/hydrogen-strage/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/tags/hydrogen-strage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ladeveze Model</title>
+      <link>https://pubs.naruki-ichihara.com/tags/ladeveze-model/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/tags/ladeveze-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical Properties</title>
+      <link>https://pubs.naruki-ichihara.com/tags/mechanical-properties/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/tags/mechanical-properties/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>3D print</title>
       <link>https://pubs.naruki-ichihara.com/tags/3d-print/</link>
-      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pubs.naruki-ichihara.com/tags/3d-print/</guid>
       <description></description>
@@ -22,9 +68,36 @@
     <item>
       <title>Optimization</title>
       <link>https://pubs.naruki-ichihara.com/tags/optimization/</link>
-      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pubs.naruki-ichihara.com/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>toughness</title>
+      <link>https://pubs.naruki-ichihara.com/tags/toughness/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/tags/toughness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomimetics</title>
+      <link>https://pubs.naruki-ichihara.com/tags/biomimetics/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/tags/biomimetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infill</title>
+      <link>https://pubs.naruki-ichihara.com/tags/infill/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pubs.naruki-ichihara.com/tags/infill/</guid>
       <description></description>
     </item>
     
@@ -38,47 +111,11 @@
     </item>
     
     <item>
-      <title>Damage mechanics</title>
-      <link>https://pubs.naruki-ichihara.com/tags/damage-mechanics/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pubs.naruki-ichihara.com/tags/damage-mechanics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Filament winding</title>
-      <link>https://pubs.naruki-ichihara.com/tags/filament-winding/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pubs.naruki-ichihara.com/tags/filament-winding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pressure Vessel</title>
       <link>https://pubs.naruki-ichihara.com/tags/pressure-vessel/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://pubs.naruki-ichihara.com/tags/pressure-vessel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biomimetics</title>
-      <link>https://pubs.naruki-ichihara.com/tags/biomimetics/</link>
-      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pubs.naruki-ichihara.com/tags/biomimetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>infill</title>
-      <link>https://pubs.naruki-ichihara.com/tags/infill/</link>
-      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pubs.naruki-ichihara.com/tags/infill/</guid>
       <description></description>
     </item>
     
