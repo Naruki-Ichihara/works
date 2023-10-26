@@ -1,0 +1,15 @@
+---
+author: "Naruki Ichihara, Masahito Ueda, Kentaro Kajiwara, Antoine Le Duigou, Mickael Castro"
+title: "3D printing with tension and compaction: prevention of fiber waviness in 3D-printed continuous carbon fiber–reinforced thermoplastics"
+date: "2023-09-18"
+description: "Advanced Composite Materials"
+tags: ["3D print"]
+doi: 10.1080/09243046.2023.2260233
+categories: ["Research paper"]
+ShowToc: false
+ShowBreadCrumbs: false
+---
+The 3D printing of continuous carbon fiber–reinforced thermoplastics (c-CFRTP) results in fiber waviness and voids that limit mechanical performance. The effects of tensioning and compaction forces during 3D printing were experimentally studied to suppress fiber waviness. A tensioning force was generated along the filament to straighten the fibers by asynchronously controlling the filament feeding and print speeds. A compaction force was applied through the nozzle tip by setting the layer height to reduce the voids. Microscopic images of specimen cross-sections and surfaces indicated a reduction in fiber waviness and voids after these treatments, and three-point bending tests demonstrated improved mechanical properties. This combination of tensioning and compaction forces achieved 28% and 45% higher bending stiffness and strength, respectively. Tensioning and compaction forces are important printing parameters for the 3D printing of high-performance c-CFRTP.
+
+* * *
+[Publisher page](https://www.tandfonline.com/doi/abs/10.1080/09243046.2023.2260233 "Taylor & Francis")
