@@ -1,4 +1,4 @@
-baseURL: "https://pubs.naruki-ichihara.com"
+baseURL: "https://naruki-ichihara.github.io/works/"
 title: publications
 paginate: 5
 theme: PaperMod
