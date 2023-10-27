@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>metamaterials on publications</title>
-    <link>https://pubs.naruki-ichihara.com/tags/metamaterials/</link>
+    <link>https://naruki-ichihara.github.io/works/tags/metamaterials/</link>
     <description>Recent content in metamaterials on publications</description>
     <image>
-      <url>https://pubs.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://pubs.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://naruki-ichihara.github.io/works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://naruki-ichihara.github.io/works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pubs.naruki-ichihara.com/tags/metamaterials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://naruki-ichihara.github.io/works/tags/metamaterials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fail-safe metamaterials with 3D printed fiber reinforced polymers</title>
-      <link>https://pubs.naruki-ichihara.com/posts/con006/</link>
+      <link>https://naruki-ichihara.github.io/works/posts/con006/</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pubs.naruki-ichihara.com/posts/con006/</guid>
+      <guid>https://naruki-ichihara.github.io/works/posts/con006/</guid>
       <description>Proceedings of TEXCOMP-14 Conference</description>
     </item>
     

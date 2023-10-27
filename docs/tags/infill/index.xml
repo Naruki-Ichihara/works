@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>infill on publications</title>
-    <link>https://pubs.naruki-ichihara.com/tags/infill/</link>
+    <link>https://naruki-ichihara.github.io/works/tags/infill/</link>
     <description>Recent content in infill on publications</description>
     <image>
-      <url>https://pubs.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://pubs.naruki-ichihara.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://naruki-ichihara.github.io/works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://naruki-ichihara.github.io/works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pubs.naruki-ichihara.com/tags/infill/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://naruki-ichihara.github.io/works/tags/infill/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D-printed high-toughness composite structures by anisotropic topology optimization</title>
-      <link>https://pubs.naruki-ichihara.com/posts/pub003/</link>
+      <link>https://naruki-ichihara.github.io/works/posts/pub003/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pubs.naruki-ichihara.com/posts/pub003/</guid>
+      <guid>https://naruki-ichihara.github.io/works/posts/pub003/</guid>
       <description>Compoites Part B: Engineering</description>
     </item>
     
     <item>
       <title>3D-print infill generation using the biological phase field of an optimized discrete material orientation vector field</title>
-      <link>https://pubs.naruki-ichihara.com/posts/pub002/</link>
+      <link>https://naruki-ichihara.github.io/works/posts/pub002/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pubs.naruki-ichihara.com/posts/pub002/</guid>
+      <guid>https://naruki-ichihara.github.io/works/posts/pub002/</guid>
       <description>Compoites Part B: Engineering</description>
     </item>
     
