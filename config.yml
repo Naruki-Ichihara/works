@@ -2,6 +2,7 @@ baseURL: "https://pubs.naruki-ichihara.com"
 title: publications
 paginate: 5
 theme: PaperMod
+publishdir: "docs"
 
 enableRobotsTXT: true
 buildDrafts: false
