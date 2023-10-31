@@ -3,6 +3,7 @@ title: publications
 paginate: 5
 theme: PaperMod
 publishdir: "docs"
+relativeURLs: true
 
 enableRobotsTXT: true
 buildDrafts: false
