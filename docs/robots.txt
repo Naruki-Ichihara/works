@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://naruki-ichihara.github.io/works/sitemap.xml
+Sitemap: https://homepage-b776f.web.app/sitemap.xml

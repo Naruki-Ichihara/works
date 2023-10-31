@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Biomimetics on publications</title>
-    <link>https://naruki-ichihara.github.io/works/tags/biomimetics/</link>
+    <link>https://homepage-b776f.web.app/tags/biomimetics/</link>
     <description>Recent content in Biomimetics on publications</description>
     <image>
-      <url>https://naruki-ichihara.github.io/works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://naruki-ichihara.github.io/works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://homepage-b776f.web.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://homepage-b776f.web.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://naruki-ichihara.github.io/works/tags/biomimetics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homepage-b776f.web.app/tags/biomimetics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D-printed high-toughness composite structures by anisotropic topology optimization</title>
-      <link>https://naruki-ichihara.github.io/works/posts/pub003/</link>
+      <link>https://homepage-b776f.web.app/posts/pub003/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://naruki-ichihara.github.io/works/posts/pub003/</guid>
+      <guid>https://homepage-b776f.web.app/posts/pub003/</guid>
       <description>Compoites Part B: Engineering</description>
     </item>
     
     <item>
       <title>3D-print infill generation using the biological phase field of an optimized discrete material orientation vector field</title>
-      <link>https://naruki-ichihara.github.io/works/posts/pub002/</link>
+      <link>https://homepage-b776f.web.app/posts/pub002/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://naruki-ichihara.github.io/works/posts/pub002/</guid>
+      <guid>https://homepage-b776f.web.app/posts/pub002/</guid>
       <description>Compoites Part B: Engineering</description>
     </item>
     
