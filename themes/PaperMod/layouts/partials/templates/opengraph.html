@@ -4,14 +4,14 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 {{- if .Params.cover.image -}}
 {{- if (ne .Params.cover.relative true) }}
-<meta property="og:image" content="{{ .Params.cover.image | relURL }}" />
+<meta property="og:image" content="{{ .Params.cover.image | absURL }}" />
 {{- else}}
-<meta property="og:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | relURL }}" />
+<meta property="og:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}" />
 {{- end}}
 {{- else }}
 
 {{- with $.Params.images -}}
-{{- range first 6 . }}<meta property="og:image" content="{{ . | relURL }}" />{{ end -}}
+{{- range first 6 . }}<meta property="og:image" content="{{ . | absURL }}" />{{ end -}}
 {{- else -}}
 {{- $images := $.Resources.ByType "image" -}}
 {{- $featured := $images.GetMatch "*feature*" -}}
@@ -19,7 +19,7 @@
 {{- with $featured -}}
 <meta property="og:image" content="{{ $featured.Permalink }}"/>
 {{- else -}}
-{{- with site.Params.images }}<meta property="og:image" content="{{ index . 0 | relURL }}"/>{{ end -}}
+{{- with site.Params.images }}<meta property="og:image" content="{{ index . 0 | absURL }}"/>{{ end -}}
 {{- end -}}
 {{- end -}}
 {{- end }}
@@ -35,7 +35,7 @@
 {{- with .Params.locale }}<meta property="og:locale" content="{{ . }}" />{{ end }}
 {{- with site.Params.title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
 {{- with .Params.videos }}{{- range . }}
-<meta property="og:video" content="{{ . | relURL }}" />
+<meta property="og:video" content="{{ . | absURL }}" />
 {{ end }}{{ end }}
 
 {{- /* If it is part of a series, link to related articles */}}
