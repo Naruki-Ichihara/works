@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>toughness on Research papers</title>
+    <link>https://homepage-b776f.web.app/tags/toughness/</link>
+    <description>Recent content in toughness on Research papers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homepage-b776f.web.app/tags/toughness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effects of a Perimeter on the Post-failure Behavior of Fiber-reinforced Polymer Composite Lattices</title>
+      <link>https://homepage-b776f.web.app/posts/pub005/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/pub005/</guid>
+      <description>The post-failure behavior of a fiber-reinforced polymer composite lattice was experimentally studied using a beam structure. Anisotropic topology optimization was conducted to maximize the structural stiffness and partial latticing to improve toughness. Subsequently, an infill structure was generated from the optimized results using a phase field approach. The perimeter of the two-dimensional beam structure was generated from a binary solution of the optimized results. Optimized composite lattice structures were obtained using three-dimensional printing.</description>
+    </item>
+    
+    <item>
+      <title>3D-printed high-toughness composite structures by anisotropic topology optimization</title>
+      <link>https://homepage-b776f.web.app/posts/pub003/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/pub003/</guid>
+      <description>The toughness of structures is essential to prevent catastrophic failure. This study introduced a design framework to improve the toughness of 3D-printed carbon fiber-reinforced composite structures by local latticing utilizing the intermediate material fraction obtained in the topology optimization. The framework was based on anisotropic topology optimization considering material fraction and material orientation. The optimized results were de-homogenized by the phase field-based technique to determine the 3D printing path. Experimental validations were carried out on a three-point bending beam problem.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization on Research papers</title>
+    <link>https://homepage-b776f.web.app/tags/optimization/</link>
+    <description>Recent content in Optimization on Research papers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homepage-b776f.web.app/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effects of a Perimeter on the Post-failure Behavior of Fiber-reinforced Polymer Composite Lattices</title>
+      <link>https://homepage-b776f.web.app/posts/pub005/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/pub005/</guid>
+      <description>The post-failure behavior of a fiber-reinforced polymer composite lattice was experimentally studied using a beam structure. Anisotropic topology optimization was conducted to maximize the structural stiffness and partial latticing to improve toughness. Subsequently, an infill structure was generated from the optimized results using a phase field approach. The perimeter of the two-dimensional beam structure was generated from a binary solution of the optimized results. Optimized composite lattice structures were obtained using three-dimensional printing.</description>
+    </item>
+    
+    <item>
+      <title>3D-printed high-toughness composite structures by anisotropic topology optimization</title>
+      <link>https://homepage-b776f.web.app/posts/pub003/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/pub003/</guid>
+      <description>The toughness of structures is essential to prevent catastrophic failure. This study introduced a design framework to improve the toughness of 3D-printed carbon fiber-reinforced composite structures by local latticing utilizing the intermediate material fraction obtained in the topology optimization. The framework was based on anisotropic topology optimization considering material fraction and material orientation. The optimized results were de-homogenized by the phase field-based technique to determine the 3D printing path. Experimental validations were carried out on a three-point bending beam problem.</description>
+    </item>
+    
+    <item>
+      <title>3D printing of pin-loading section with optimized print path using short carbon fiber reinforced plastic</title>
+      <link>https://homepage-b776f.web.app/posts/con008/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con008/</guid>
+      <description>Perforated plates were 3D printed by carbon fiber reinforced plastic using several print path strategies to study the effect of print paths on the bearing strength in pin-loading. Angle, quasi-isotropic, and concentric print paths showed different bearing strengths. The concentric print path showed higher bearing strength causing material failure at the side of the hole. In contrast, angle and quasi-isotropic print paths showed lower strength, which failed by the separation between print paths and delamination between layers.</description>
+    </item>
+    
+    <item>
+      <title>Conformed print path generation with optimized material orientation for 3D printed fiber reinforced polymers</title>
+      <link>https://homepage-b776f.web.app/posts/con007/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con007/</guid>
+      <description>I received the Top award-winning PhD category technical paper of the 2021 SAMPE Japan Symposium at the 2022 SAMPE University Research Symposium from SAMPE Japan in 2021 and was invited to this conference.
+The curvilinear print path generation method for 3D printing of a carbon fiber reinforced thermoplastic (CFRTP) was proposed. The fiber orientation vector field that maximizes the structural stiffness was calculated. Then, the spatiotemporal partial differential growth equations, which have a spatially periodic convergence pattern, were used to generate continuous curves based on the optimized fiber orientation vector field.</description>
+    </item>
+    
+    <item>
+      <title>3D-print path generation of curvilinear fiber-reinforced polymers based on biological pattern formnig</title>
+      <link>https://homepage-b776f.web.app/posts/con003/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con003/</guid>
+      <description>This paper proposed 3D printing of orthotropic material, carbon fiber-reinforcedpolymers, based on the optimized material orientation and distribution. First, the cross-plyorthotropic material orientation and distribution were optimized using the gradient-basedanisotropic topology optimization method to maximize the structural stiffness. Then, thecontinuous 3D print path was generated from the optimized material orientation and distributionusing the biological pattern-forming system. Finally, the optimized structure was 3D printedbased on the 3D print path by means of the fused filament fabrication.</description>
+    </item>
+    
+    <item>
+      <title>3D-print infill generation using the biological phase field of an optimized discrete material orientation vector field</title>
+      <link>https://homepage-b776f.web.app/posts/pub002/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/pub002/</guid>
+      <description>A framework to produce an optimized infill structure for 3D-printed curvilinear fiber-reinforced polymer composites is proposed. The material orientation was optimized first to maximize the physical properties. Then, the phase field of the stripe pattern was developed based on the optimized material orientation vector field using the local activation and long-range inhibition system for the formation of biological patterns. Finally, the phase field was converted into a 3D print path. The proposed approach was validated both numerically and experimentally.</description>
+    </item>
+    
+    <item>
+      <title>A 3D print path generation based on periodic pattern formation system</title>
+      <link>https://homepage-b776f.web.app/posts/con004/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con004/</guid>
+      <description>The curvilinear print path generation technique for 3D printing manufacturing of carbon fiber reinforced polymer composites was provided. The anisotropic Local-Excitation Global-Inhibition model, which is known as a core logic for pattern formation of biological systems, was applied to generate the optimized 3D print path. An implant stem-like structural part was printed based on the technique. The mechanical testing of the 3D printed structure showed improved stiffness.
+web page</description>
+    </item>
+    
+  </channel>
+</rss>

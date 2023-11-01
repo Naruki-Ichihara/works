@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>International Conference on Research papers</title>
+    <link>https://homepage-b776f.web.app/categories/international-conference/</link>
+    <description>Recent content in International Conference on Research papers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://homepage-b776f.web.app/categories/international-conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D printing of pin-loading section with optimized print path using short carbon fiber reinforced plastic</title>
+      <link>https://homepage-b776f.web.app/posts/con008/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con008/</guid>
+      <description>Perforated plates were 3D printed by carbon fiber reinforced plastic using several print path strategies to study the effect of print paths on the bearing strength in pin-loading. Angle, quasi-isotropic, and concentric print paths showed different bearing strengths. The concentric print path showed higher bearing strength causing material failure at the side of the hole. In contrast, angle and quasi-isotropic print paths showed lower strength, which failed by the separation between print paths and delamination between layers.</description>
+    </item>
+    
+    <item>
+      <title>Topology and material orientation optimization for 3D printed fiber-reinforced polymers</title>
+      <link>https://homepage-b776f.web.app/posts/con005/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con005/</guid>
+      <description>A 3D printed fiber-reinforced polymer with high specific stiffness was proposed with the topology and material orientation optimization method. First, the relation between material fraction and effective stiffness was investigated using the numerical material test. Second, anisotropic topology optimization based on effective stiffness obtained by the numerical material test result was performed to maximize the specific stiffness. Third, based on the periodic pattern formation system, the 3D print path generation method realized the continuous 3D print path based on the optimization results.</description>
+    </item>
+    
+    <item>
+      <title>Conformed print path generation with optimized material orientation for 3D printed fiber reinforced polymers</title>
+      <link>https://homepage-b776f.web.app/posts/con007/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con007/</guid>
+      <description>I received the Top award-winning PhD category technical paper of the 2021 SAMPE Japan Symposium at the 2022 SAMPE University Research Symposium from SAMPE Japan in 2021 and was invited to this conference.
+The curvilinear print path generation method for 3D printing of a carbon fiber reinforced thermoplastic (CFRTP) was proposed. The fiber orientation vector field that maximizes the structural stiffness was calculated. Then, the spatiotemporal partial differential growth equations, which have a spatially periodic convergence pattern, were used to generate continuous curves based on the optimized fiber orientation vector field.</description>
+    </item>
+    
+    <item>
+      <title>Fail-safe metamaterials with 3D printed fiber reinforced polymers</title>
+      <link>https://homepage-b776f.web.app/posts/con006/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con006/</guid>
+      <description>Fail-safe is a design philosophy that ensures the structure&amp;rsquo;s safety under unexpected loading. Fail-safe structures often consist of many struts or parts because these structures prevent catastrophic failure with their structural redundancy. However, the fail-safe structures suffer the increasing number of components and enlarged structure size. Therefore, the knowledge to design mechanical structures that enclose a small number of components and are fail-safe stays challenging.
+Recent advanced additive manufacturing technologies provide complex and delicate structures that blur the boundary between &amp;ldquo;structure&amp;rdquo; and &amp;ldquo;material.</description>
+    </item>
+    
+    <item>
+      <title>3D-print path generation of curvilinear fiber-reinforced polymers based on biological pattern formnig</title>
+      <link>https://homepage-b776f.web.app/posts/con003/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con003/</guid>
+      <description>This paper proposed 3D printing of orthotropic material, carbon fiber-reinforcedpolymers, based on the optimized material orientation and distribution. First, the cross-plyorthotropic material orientation and distribution were optimized using the gradient-basedanisotropic topology optimization method to maximize the structural stiffness. Then, thecontinuous 3D print path was generated from the optimized material orientation and distributionusing the biological pattern-forming system. Finally, the optimized structure was 3D printedbased on the 3D print path by means of the fused filament fabrication.</description>
+    </item>
+    
+    <item>
+      <title>The effect of filament winding parameters on damage evolution in carbon fiber reinforced plastic for high-pressure hydrogen vessels</title>
+      <link>https://homepage-b776f.web.app/posts/con009/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con009/</guid>
+      <description>Please request a whole paper on the research gate if you need a copy of this article.
+Not available.</description>
+    </item>
+    
+    <item>
+      <title>3D print path generation based on the local activation and global inhibition system</title>
+      <link>https://homepage-b776f.web.app/posts/con002/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con002/</guid>
+      <description>Curvilinear natural fiber-reinforced composites are everywhere in organisms. Fibers are oriented along to a principal loading direction to bring out the material&amp;rsquo;s mechanical performance. Conventional human-made fiber-reinforced composites have some design limitations; for example, the fibers only can be controlled at each layer. Recently, several researchers developed the 3D-printing technique for fabricating fiber-reinforced composites. 3D printed composites allow us to achieve further material tailoring. However, the design procedure for curvilinear composites to yield superior performance like natural composites presents some challenges.</description>
+    </item>
+    
+    <item>
+      <title>A 3D print path generation based on periodic pattern formation system</title>
+      <link>https://homepage-b776f.web.app/posts/con004/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con004/</guid>
+      <description>The curvilinear print path generation technique for 3D printing manufacturing of carbon fiber reinforced polymer composites was provided. The anisotropic Local-Excitation Global-Inhibition model, which is known as a core logic for pattern formation of biological systems, was applied to generate the optimized 3D print path. An implant stem-like structural part was printed based on the technique. The mechanical testing of the 3D printed structure showed improved stiffness.
+web page</description>
+    </item>
+    
+    <item>
+      <title>Continuum damage mechanics modelling of a 3D printed curvilinear CFRTP</title>
+      <link>https://homepage-b776f.web.app/posts/con001/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://homepage-b776f.web.app/posts/con001/</guid>
+      <description>Continuum damage mechanics was applied to a 3D printed curvilinear carbon fiber reinforced thermoplastic (c-CFRTP) to predict mechanical response due to loading. The material model was developed by means of finite element analysis, in which user-defined material subroutine was implemented. Elasto-plastic behavior of the 3D printed c-CFRTP including damage initiation and propagation was identified by a monotonic and cyclic tensile tests of the three specimens, i.e. [(+-45]2]S, [(0/90)2]S and [(+-67.5)2]S specimens.</description>
+    </item>
+    
+  </channel>
+</rss>
