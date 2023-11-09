@@ -1,11 +1,12 @@
-baseURL = "https://homepage-b776f.web.app/"
-# title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
-paginate = 3
+baseURL = "https://works.naruki-ichihara.com"
+# title = "Works"
+author = "Naruki Ichihara"
+copyright = "Copyright © 2023, Naruki Ichihara all rights reserved."
+paginate = 10
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
+publishdir = "docs"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
@@ -17,8 +18,8 @@ title = "Research papers"
 [params]
   color = 'linen'
 
-  avatar = 'naruki.ichihara@nihon-u.ac.jp'
-  name = 'Naruki'
+  avatar = 'naruki.ichihara@gmail.com'
+  name = 'Naruki Ichihara'
   bio = '3D printed composites, material engineer in Tokyo'
 # ------------------------------
 
@@ -30,16 +31,16 @@ title = "Research papers"
 
 [menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 10
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "About"
+#    url = "/about/"
+#    weight = 10
+#  [[menu.main]]
+#    identifier = "contact"
+#    name = "Contact"
+#    url = "/contact/"
+#   weight = 10
 
 [taxonomies]
 category = "categories"

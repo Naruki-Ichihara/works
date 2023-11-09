@@ -1,149 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on publications</title>
-    <link>https://homepage-b776f.web.app/posts/</link>
-    <description>Recent content in Posts on publications</description>
-    <image>
-      <url>https://homepage-b776f.web.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://homepage-b776f.web.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <title>Posts on Research papers</title>
+    <link>https://works.naruki-ichihara.com/posts/</link>
+    <description>Recent content in Posts on Research papers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homepage-b776f.web.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023, Naruki Ichihara all rights reserved.</copyright>
+    <lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://works.naruki-ichihara.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D printing with tension and compaction: prevention of fiber waviness in 3D-printed continuous carbon fiber–reinforced thermoplastics</title>
-      <link>https://homepage-b776f.web.app/posts/pub006/</link>
+      <link>https://works.naruki-ichihara.com/posts/pub006/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://homepage-b776f.web.app/posts/pub006/</guid>
-      <description>Advanced Composite Materials</description>
+      <guid>https://works.naruki-ichihara.com/posts/pub006/</guid>
+      <description>The 3D printing of continuous carbon fiber–reinforced thermoplastics (c-CFRTP) results in fiber waviness and voids that limit mechanical performance. The effects of tensioning and compaction forces during 3D printing were experimentally studied to suppress fiber waviness. A tensioning force was generated along the filament to straighten the fibers by asynchronously controlling the filament feeding and print speeds. A compaction force was applied through the nozzle tip by setting the layer height to reduce the voids.</description>
     </item>
     
     <item>
       <title>Continuum damage mechanics behavior of a carbon-fiber-reinforced epoxy composite fabricated by filament winding with different material and manufacturing conditions</title>
-      <link>https://homepage-b776f.web.app/posts/pub004/</link>
+      <link>https://works.naruki-ichihara.com/posts/pub004/</link>
       <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://homepage-b776f.web.app/posts/pub004/</guid>
-      <description>Mechanics of Advanced Materials and Structures</description>
+      <guid>https://works.naruki-ichihara.com/posts/pub004/</guid>
+      <description>The elastic, plastic, and in-plane damage evolutions of a carbon-fiber-reinforced epoxy composite fabricated via filament winding were studied based on continuum damage mechanics. The specific voids and resin-rich region distributions depended on the material and manufacturing conditions. The damage evolutions were expressed by a unified curve, indicating that the continuum damage mechanics approach gave a robust prediction of the damage evolution, although the critical damage at the ultimate failure depended on the material and manufacturing conditions.</description>
     </item>
     
     <item>
       <title>Effects of a Perimeter on the Post-failure Behavior of Fiber-reinforced Polymer Composite Lattices</title>
-      <link>https://homepage-b776f.web.app/posts/pub005/</link>
+      <link>https://works.naruki-ichihara.com/posts/pub005/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://homepage-b776f.web.app/posts/pub005/</guid>
-      <description>Chinese Journal of Mechanical Engineering: Additive Manufacturing Frontiers</description>
+      <guid>https://works.naruki-ichihara.com/posts/pub005/</guid>
+      <description>The post-failure behavior of a fiber-reinforced polymer composite lattice was experimentally studied using a beam structure. Anisotropic topology optimization was conducted to maximize the structural stiffness and partial latticing to improve toughness. Subsequently, an infill structure was generated from the optimized results using a phase field approach. The perimeter of the two-dimensional beam structure was generated from a binary solution of the optimized results. Optimized composite lattice structures were obtained using three-dimensional printing.</description>
     </item>
     
     <item>
       <title>3D-printed high-toughness composite structures by anisotropic topology optimization</title>
-      <link>https://homepage-b776f.web.app/posts/pub003/</link>
+      <link>https://works.naruki-ichihara.com/posts/pub003/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://homepage-b776f.web.app/posts/pub003/</guid>
-      <description>Compoites Part B: Engineering</description>
-    </item>
-    
-    <item>
-      <title>3D printing of pin-loading section with optimized print path using short carbon fiber reinforced plastic</title>
-      <link>https://homepage-b776f.web.app/posts/con008/</link>
-      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://homepage-b776f.web.app/posts/con008/</guid>
-      <description>Proceedings of JSME International Conference on Materials and Processing 2022</description>
-    </item>
-    
-    <item>
-      <title>Topology and material orientation optimization for 3D printed fiber-reinforced polymers</title>
-      <link>https://homepage-b776f.web.app/posts/con005/</link>
-      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://homepage-b776f.web.app/posts/con005/</guid>
-      <description>Proceedings of JSME International Conference on Materials and Processing 2022</description>
-    </item>
-    
-    <item>
-      <title>Conformed print path generation with optimized material orientation for 3D printed fiber reinforced polymers</title>
-      <link>https://homepage-b776f.web.app/posts/con007/</link>
-      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://homepage-b776f.web.app/posts/con007/</guid>
-      <description>CAMX2022 Sampe University Research Symposium</description>
-    </item>
-    
-    <item>
-      <title>Fail-safe metamaterials with 3D printed fiber reinforced polymers</title>
-      <link>https://homepage-b776f.web.app/posts/con006/</link>
-      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://homepage-b776f.web.app/posts/con006/</guid>
-      <description>Proceedings of TEXCOMP-14 Conference</description>
-    </item>
-    
-    <item>
-      <title>3D-print path generation of curvilinear fiber-reinforced polymers based on biological pattern formnig</title>
-      <link>https://homepage-b776f.web.app/posts/con003/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://homepage-b776f.web.app/posts/con003/</guid>
-      <description>Proceedings of the 20th European Conference on Composite Materials</description>
-    </item>
-    
-    <item>
-      <title>The effect of filament winding parameters on damage evolution in carbon fiber reinforced plastic for high-pressure hydrogen vessels</title>
-      <link>https://homepage-b776f.web.app/posts/con009/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://homepage-b776f.web.app/posts/con009/</guid>
-      <description>Proceedings of the 20th European Conference on Composite Materials</description>
-    </item>
-    
-    <item>
-      <title>3D print path generation based on the local activation and global inhibition system</title>
-      <link>https://homepage-b776f.web.app/posts/con002/</link>
-      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://homepage-b776f.web.app/posts/con002/</guid>
-      <description>Proceedings of 46th International Conference and Exposition on Advanced Ceramics and Composites</description>
+      <guid>https://works.naruki-ichihara.com/posts/pub003/</guid>
+      <description>The toughness of structures is essential to prevent catastrophic failure. This study introduced a design framework to improve the toughness of 3D-printed carbon fiber-reinforced composite structures by local latticing utilizing the intermediate material fraction obtained in the topology optimization. The framework was based on anisotropic topology optimization considering material fraction and material orientation. The optimized results were de-homogenized by the phase field-based technique to determine the 3D printing path. Experimental validations were carried out on a three-point bending beam problem.</description>
     </item>
     
     <item>
       <title>3D-print infill generation using the biological phase field of an optimized discrete material orientation vector field</title>
-      <link>https://homepage-b776f.web.app/posts/pub002/</link>
+      <link>https://works.naruki-ichihara.com/posts/pub002/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://homepage-b776f.web.app/posts/pub002/</guid>
-      <description>Compoites Part B: Engineering</description>
-    </item>
-    
-    <item>
-      <title>A 3D print path generation based on periodic pattern formation system</title>
-      <link>https://homepage-b776f.web.app/posts/con004/</link>
-      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://homepage-b776f.web.app/posts/con004/</guid>
-      <description>Proceedings of 17th JAPAN International SAMPE SYMPOSIUM AND EXHIBITION</description>
+      <guid>https://works.naruki-ichihara.com/posts/pub002/</guid>
+      <description>A framework to produce an optimized infill structure for 3D-printed curvilinear fiber-reinforced polymer composites is proposed. The material orientation was optimized first to maximize the physical properties. Then, the phase field of the stripe pattern was developed based on the optimized material orientation vector field using the local activation and long-range inhibition system for the formation of biological patterns. Finally, the phase field was converted into a 3D print path. The proposed approach was validated both numerically and experimentally.</description>
     </item>
     
     <item>
       <title>Progressive damage simulation for a 3D-printed curvilinear continuous carbon fiber-reinforced thermoplastic based on continuum damage mechanics</title>
-      <link>https://homepage-b776f.web.app/posts/pub001/</link>
+      <link>https://works.naruki-ichihara.com/posts/pub001/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://homepage-b776f.web.app/posts/pub001/</guid>
-      <description>Advanced Composite Materials</description>
-    </item>
-    
-    <item>
-      <title>Continuum damage mechanics modelling of a 3D printed curvilinear CFRTP</title>
-      <link>https://homepage-b776f.web.app/posts/con001/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://homepage-b776f.web.app/posts/con001/</guid>
-      <description>Proceedings of 22nd International Conference on Composite Materials</description>
+      <guid>https://works.naruki-ichihara.com/posts/pub001/</guid>
+      <description>Continuum damage mechanics (CDM) based on finite element analysis was performed to predict the mechanical behavior of a 3D-printed curvilinear continuous carbon fiber reinforced thermoplastic (c-CFRTP). Elastoplastic properties of the 3D-printed c-CFRTP including damage initiation, evolution, and propagation were identified using monotonic and cyclic tensile tests for three specimens, i.e. [(±45)2]S, [(0/90)2]S, and [(±67.5)2]S. Then, S-shaped curvilinear c-CFRTP was 3D-printed and tested in monotonic tensile loading. The non-linear mechanical behavior of an S-shaped curvilinear c-CFRTP due to tensile loading was well predicted by means of finite element analysis using the constructed CDM-based material model.</description>
     </item>
     
   </channel>

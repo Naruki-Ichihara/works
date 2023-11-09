@@ -53,10 +53,24 @@
     >Featured</span
   >
   {{ end }}
-  <h2 class="!my-0 pb-1 font-bold !leading-none">{{ .Title }}</h2>
-  <time class="text-sm antialiased opacity-60"
+  <h2 class="!my-0 pb-1 font-medium !leading-none">{{ .Title }}</h2>
+  <time class="text-sm antialiased"
     >{{ .Date | time.Format ":date_medium" }}</time
   >
+  <time class="text-sm antialiased">
+  {{ $single_author := or .Params.Author site.Author.name }}
+  <!---->
+  {{ if $single_author }}
+  <span class="mx-1">&middot;</span>
+  <span>{{ $single_author }}</span>
+  {{ end }}
+  <span class="mx-1">&middot;</span>
+  {{ .Params.journal }}
+  <span class="mx-1">&middot;</span>
+  {{ .Params.vol }}
+  <span class="mx-1">&middot;</span>
+  {{ .Params.pp }}
+  </time>
   <a class="absolute inset-0 text-[0]" href="{{ .Permalink }}">{{ .Title }}</a>
 </section>
 {{ end }}

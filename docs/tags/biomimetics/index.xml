@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biomimetics on publications</title>
-    <link>https://homepage-b776f.web.app/tags/biomimetics/</link>
-    <description>Recent content in Biomimetics on publications</description>
-    <image>
-      <url>https://homepage-b776f.web.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://homepage-b776f.web.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <title>Biomimetics on Research papers</title>
+    <link>https://works.naruki-ichihara.com/tags/biomimetics/</link>
+    <description>Recent content in Biomimetics on Research papers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homepage-b776f.web.app/tags/biomimetics/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023, Naruki Ichihara all rights reserved.</copyright>
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://works.naruki-ichihara.com/tags/biomimetics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D-printed high-toughness composite structures by anisotropic topology optimization</title>
-      <link>https://homepage-b776f.web.app/posts/pub003/</link>
+      <link>https://works.naruki-ichihara.com/posts/pub003/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://homepage-b776f.web.app/posts/pub003/</guid>
-      <description>Compoites Part B: Engineering</description>
+      <guid>https://works.naruki-ichihara.com/posts/pub003/</guid>
+      <description>The toughness of structures is essential to prevent catastrophic failure. This study introduced a design framework to improve the toughness of 3D-printed carbon fiber-reinforced composite structures by local latticing utilizing the intermediate material fraction obtained in the topology optimization. The framework was based on anisotropic topology optimization considering material fraction and material orientation. The optimized results were de-homogenized by the phase field-based technique to determine the 3D printing path. Experimental validations were carried out on a three-point bending beam problem.</description>
     </item>
     
     <item>
       <title>3D-print infill generation using the biological phase field of an optimized discrete material orientation vector field</title>
-      <link>https://homepage-b776f.web.app/posts/pub002/</link>
+      <link>https://works.naruki-ichihara.com/posts/pub002/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://homepage-b776f.web.app/posts/pub002/</guid>
-      <description>Compoites Part B: Engineering</description>
+      <guid>https://works.naruki-ichihara.com/posts/pub002/</guid>
+      <description>A framework to produce an optimized infill structure for 3D-printed curvilinear fiber-reinforced polymer composites is proposed. The material orientation was optimized first to maximize the physical properties. Then, the phase field of the stripe pattern was developed based on the optimized material orientation vector field using the local activation and long-range inhibition system for the formation of biological patterns. Finally, the phase field was converted into a 3D print path. The proposed approach was validated both numerically and experimentally.</description>
     </item>
     
   </channel>
