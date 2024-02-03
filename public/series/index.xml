@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Research papers</title>
-    <link>https://works.naruki-ichihara.com/series/</link>
+    <link>https://works.naruki.dev/series/</link>
     <description>Recent content in Series on Research papers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2023, Naruki Ichihara all rights reserved.</copyright><atom:link href="https://works.naruki-ichihara.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2024, Naruki Ichihara all rights reserved.</copyright><atom:link href="https://works.naruki.dev/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

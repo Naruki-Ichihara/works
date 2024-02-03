@@ -3,3 +3,34 @@
     display: flex;
     gap: 10px 20px;
 }
+
+.footer_logo {
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+
+.footer {
+    padding: 2rem;
+    font-size: 15px;
+    font-family: Helvetica;
+    color: #404040;
+    background: #afafaf;
+}
+
+.line-left {
+    border-left: 2px solid rgb(255, 255, 255);
+    padding-left: 10px;
+}
+
+@media (min-width: 768px) {
+    .md-flex {
+      display: flex;
+      display: -webkit-flex;
+      flex-direction: row;
+      align-items: center;
+    }
+  
+    .md-justify-between {
+      justify-content: space-between;
+    }
+}

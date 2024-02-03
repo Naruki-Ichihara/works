@@ -1,7 +1,7 @@
-baseURL = "https://works.naruki-ichihara.com"
+baseURL = "https://works.naruki.dev"
 # title = "Works"
 author = "Naruki Ichihara"
-copyright = "Copyright © 2023, Naruki Ichihara all rights reserved."
+copyright = "Copyright © 2024, Naruki Ichihara all rights reserved."
 paginate = 10
 languageCode = "en"
 DefaultContentLanguage = "en"

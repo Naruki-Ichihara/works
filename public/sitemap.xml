@@ -2,76 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://works.naruki-ichihara.com/tags/3d-print/</loc>
+    <loc>https://works.naruki.dev/tags/3d-print/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://works.naruki.dev/categories/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://works.naruki.dev/posts/pub007/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://works.naruki.dev/posts/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://works.naruki.dev/categories/research-paper/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://works.naruki.dev/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://works.naruki.dev/tags/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://works.naruki.dev/posts/pub006/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/posts/pub006/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://works.naruki-ichihara.com/categories/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://works.naruki-ichihara.com/posts/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://works.naruki-ichihara.com/categories/research-paper/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://works.naruki-ichihara.com/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://works.naruki-ichihara.com/tags/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://works.naruki-ichihara.com/posts/pub004/</loc>
+    <loc>https://works.naruki.dev/posts/pub004/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/tags/damage-mechanics/</loc>
+    <loc>https://works.naruki.dev/tags/damage-mechanics/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/tags/filament-winding/</loc>
+    <loc>https://works.naruki.dev/tags/filament-winding/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/tags/hydrogen-strage/</loc>
+    <loc>https://works.naruki.dev/tags/hydrogen-strage/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/tags/ladeveze-model/</loc>
+    <loc>https://works.naruki.dev/tags/ladeveze-model/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/tags/mechanical-properties/</loc>
+    <loc>https://works.naruki.dev/tags/mechanical-properties/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/posts/pub005/</loc>
+    <loc>https://works.naruki.dev/posts/pub005/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/tags/optimization/</loc>
+    <loc>https://works.naruki.dev/tags/optimization/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/tags/toughness/</loc>
+    <loc>https://works.naruki.dev/tags/toughness/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/posts/pub003/</loc>
+    <loc>https://works.naruki.dev/posts/pub003/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/tags/biomimetics/</loc>
+    <loc>https://works.naruki.dev/tags/biomimetics/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/tags/infill/</loc>
+    <loc>https://works.naruki.dev/tags/infill/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/posts/pub002/</loc>
+    <loc>https://works.naruki.dev/posts/pub002/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/tags/continuous-fiber/</loc>
+    <loc>https://works.naruki.dev/tags/continuous-fiber/</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/posts/pub001/</loc>
+    <loc>https://works.naruki.dev/posts/pub001/</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/archives/</loc>
+    <loc>https://works.naruki.dev/archives/</loc>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/search/</loc>
+    <loc>https://works.naruki.dev/search/</loc>
   </url><url>
-    <loc>https://works.naruki-ichihara.com/series/</loc>
+    <loc>https://works.naruki.dev/series/</loc>
   </url>
 </urlset>
